@@ -13,10 +13,11 @@ Coding in Assembly is quite different and tougher than that in Python. The main 
 Python is easier because it is a high-level language. It takes lesser time to code the same project in python due to its simplicity. However, code execution will be faster on Assembly written code.
 
 ○ Which features of Python help abstraction (variables, functions, loops)? 
+Python is a feature rich language that helps to save memory and time. Functions, loops and variables make it memory efficient and help abstraction.
 
    Comparison Table 
 | Feature           | Assembly Example | Python Example 
 |-------------------|------------------|----------------
-| Variable storage  | Register (EAX)   | x = 5` |
-| Printing output   | INT 21h          | print() |
-| Arithmetic        | ADD AX, BX       | x + y | 
+| Variable storage  | Register (EAX)   | x = 5        |
+| Printing output   | INT 21h          | print()      |
+| Arithmetic        | ADD AX, BX       | x + y        | 
